@@ -8,7 +8,7 @@
 * 개발자 스킬을 업그레이드 하기 위함
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/.NET-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-007396?style=for-the-badge&logo=java&logoColor=white">
 
 ## Service Flow
  * 매매
