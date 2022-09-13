@@ -16,6 +16,10 @@
  * 평가
  * 조건식
 
+## Image
+![그림_자동매매](https://user-images.githubusercontent.com/29768432/189917443-f1fb0b6f-ba7e-4815-b692-ffbe14776a81.png)
+
+
 ### Limit
 * 모의투자로만 진행
 * 낮은 수익률과 높은 매매비용
